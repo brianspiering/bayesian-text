@@ -24,7 +24,7 @@ If you have never seen Python before, never fear! Beginners are welcome to come 
 Setup
 -----
 
-- Binder for Jupyter Notebook
+- [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/brianspiering/naive-bayes-text-classification/master)
 - [Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb#recent=true) (Jupyter Notebooks on Google Drive)
 - Local setup via Anaconda
 
