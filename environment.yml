@@ -6,10 +6,6 @@ dependencies:
   - python==3.6
   - ipython
   - jupyter
-  - matplotlib
-  - seaborn
-  - numpy
-  - pandas
-  - scikit-learn
+  - textblob
   - rise
   
